@@ -1,4 +1,3 @@
-
 # Online resources for do-it-yourself investing in Canada
 
 en français = in French
@@ -37,7 +36,7 @@ en français = in French
 
 - [Test pour le cours sur le commerce des valeurs mobilières (CCVM)](http://test.entrepreneurboursier.com/ccvm.html)
 
-# Stock market exchanges
+## Stock market exchanges
 
 - [TSX](https://tmxmoney.com/en/index.html)
 - [NASDAQ](https://www.nasdaq.com/)
