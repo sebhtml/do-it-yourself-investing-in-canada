@@ -32,6 +32,11 @@ en français = in French
 - [Canadian Couch Potato Podcast](https://canadiancouchpotato.com/podcast/)
 - en français: [Balado Le Planif - Le premier balado consacré à la planification de vos finances personnelles](https://baladoleplanif.com/)
 
+## Videos
+
+- [Common Sense Investing by Ben Felix](https://www.youtube.com/channel/UCDXTQ8nWmx_EhZ2v-kp7QxA/videos)
+- [Bloomberg Live TV](https://www.bloomberg.com/live/us)
+
 ## Tests
 
 - [Test pour le cours sur le commerce des valeurs mobilières (CCVM)](http://test.entrepreneurboursier.com/ccvm.html)
@@ -45,11 +50,6 @@ en français = in French
 ## News
 
 - [Bloomberg Canada](https://www.bloomberg.com/canada)
-
-## Videos
-
-- [Common Sense Investing by Ben Felix](https://www.youtube.com/channel/UCDXTQ8nWmx_EhZ2v-kp7QxA/videos)
-- [Bloomberg Live TV](https://www.bloomberg.com/live/us)
 
 ## Forums (Canada)
 
