@@ -48,6 +48,7 @@ en français = in French
 
 ## Videos
 
+- [Common Sense Investing by Ben Felix](https://www.youtube.com/channel/UCDXTQ8nWmx_EhZ2v-kp7QxA/videos)
 - [Bloomberg Live TV](https://www.bloomberg.com/live/us)
 
 ## Forums (Canada)
