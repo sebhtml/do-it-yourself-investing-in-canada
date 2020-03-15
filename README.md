@@ -2,6 +2,10 @@
 
 en français = in French
 
+## Worlf view
+
+- [All of the World’s Money and Markets in One Visualization](http://money.visualcapitalist.com/worlds-money-markets-one-visualization-2017/)
+
 ## Model portfolios
 
 - [Canadian Portfolio Manager Blog Model ETF Portfolios](http://www.canadianportfoliomanagerblog.com/model-etf-portfolios/)
