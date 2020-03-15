@@ -2,7 +2,7 @@
 
 en français = in French
 
-## Worlf view
+## World view
 
 - [All of the World’s Money and Markets in One Visualization](http://money.visualcapitalist.com/worlds-money-markets-one-visualization-2017/)
 
