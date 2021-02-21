@@ -8,6 +8,7 @@ en français = in French
 
 ## Model portfolios
 
+- [sebhtml-canadian-ETF-portfolio-template](https://docs.google.com/spreadsheets/d/1TgByKPLptN55Q-tTzyZeLV8q3cxwAJkaHq-PHUsy3og/edit#gid=0)
 - [Canadian Portfolio Manager Blog Model ETF Portfolios](http://www.canadianportfoliomanagerblog.com/model-etf-portfolios/)
 - [Canadian Couch Potato Model Portfolios](https://canadiancouchpotato.com/model-portfolios/)
 - [The Rich Moose Model Portfolios](http://therichmoose.com/portfolios/)
