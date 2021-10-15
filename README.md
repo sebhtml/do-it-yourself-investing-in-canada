@@ -2,6 +2,10 @@
 
 en français = in French
 
+## Brokerages
+
+- [List of Brokerages provided by Hardbacon](https://hardbacon.ca/en/compare/brokerages/)
+
 ## World view
 
 - [All of the World’s Money and Markets in One Visualization](http://money.visualcapitalist.com/worlds-money-markets-one-visualization-2017/)
@@ -13,6 +17,10 @@ en français = in French
 - [Canadian Couch Potato Model Portfolios](https://canadiancouchpotato.com/model-portfolios/)
 - [The Rich Moose Model Portfolios](http://therichmoose.com/portfolios/)
 - [The Globe and Mail Three simple ETF portfolios for DIY investors](https://www.theglobeandmail.com/globe-investor/globe-advisor/three-simple-etf-portfolios-for-diy-investors/article37383218/)
+
+## Podcasts
+
+- [Rational Reminder](https://rationalreminder.ca/) (The podcast is hosted by Benjamin Felix and Cameron Passmore, Portfolio Managers at PWL Capital)
 
 ## Blogs
 
@@ -39,8 +47,12 @@ en français = in French
 
 ## Videos
 
-- [Common Sense Investing by Ben Felix](https://www.youtube.com/channel/UCDXTQ8nWmx_EhZ2v-kp7QxA/videos)
+- [Common Sense Investing by Ben Felix](https://www.youtube.com/c/BenFelixCSI)
 - [Bloomberg Live TV](https://www.bloomberg.com/live/us)
+
+## Articles
+
+- [Les stratégies fiscales sont-elles éthiques ?](https://www.lesaffaires.com/blogues/dany-provost/les-strategies-fiscales-sont-elles-ethiques-/608859)
 
 ## Tests
 
